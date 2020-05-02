@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-npm",
+  "version": "1.0.0",
+  "description": "My scrumtrulescent Nuxt.js project",
+  "author": "pascal corces",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^18.0.0",
+    "@ckeditor/ckeditor5-code-block": "github:ckeditor/ckeditor5-code-block",
+    "@ckeditor/ckeditor5-vue": "^1.0.1",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.9.7",
+    "@nuxtjs/markdownit": "^1.2.9",
+    "artyom.js": "^1.0.6",
+    "axios": "^0.19.2",
+    "element-ui": "^2.4.11",
+    "markdown-it-highlightjs": "^3.1.0",
+    "marked": "^1.0.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "semantic-ui": "^2.4.2"
+  },
+  "devDependencies": {}
+}
