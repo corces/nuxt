@@ -21,7 +21,7 @@
     "axios": "^0.21.1",
     "element-ui": "^2.4.11",
     "markdown-it-highlightjs": "^3.1.0",
-    "marked": "^1.0.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "nuxt": "^2.0.0",
     "semantic-ui": "^2.4.2"
